@@ -1,3 +1,9 @@
 jupyter
 pandas
 plotly
+scikit-learn
+langchain
+sentence_transformers
+accelerate
+bitsandbytes
+
